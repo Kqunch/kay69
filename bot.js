@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'string') {
-    	message.reply('I love you :kissing_closed_eyes:');
+    if (message.content === 'kay') {
+    	message.reply('https://gyazo.com/6c721595ca6a31dbbbd446f28ce5830d');
   	}
 });
 
