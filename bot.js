@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'love') {
-    	message.reply('kiss');
+    if (message.content === 'string') {
+    	message.reply('I love you :kissing_closed_eyes:');
   	}
 });
 
