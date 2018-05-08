@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
           
 client.on('message', message => {
-    if (message.content === 'kay') {
+    if (message.content === 'k!kay') {
     	message.reply('https://gyazo.com/9ef847fd0d1d84cd8507b8a1699a08bf');
   	}
 });
