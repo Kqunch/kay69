@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
           
 client.on('message', message => {
-    if (message.content === 'oldwaifu') {
-    	message.reply('https://gyazo.com/5ca4235d3eb29327daf33655473c0325');
+    if (message.content === 'kay') {
+    	message.reply('https://gyazo.com/9ef847fd0d1d84cd8507b8a1699a08bf');
   	}
 });
 
